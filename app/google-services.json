@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121816311296",
+    "firebase_url": "https://hansung-aca67.firebaseio.com",
+    "project_id": "hansung-aca67",
+    "storage_bucket": "hansung-aca67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121816311296:android:0bb4b684dc05218ac31ae5",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121816311296-mcjcu8vekjb239inogp4ut3754hoo40i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDHiNSAP8UN29XvFjitxsMSjW5h61dm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121816311296-mcjcu8vekjb239inogp4ut3754hoo40i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
